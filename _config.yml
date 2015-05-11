@@ -1,0 +1,6 @@
+title: "O zi de luni"
+base_url: "/baronski" # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
+defaults:
+  - scope: {path: ""}
+    values:
+      layout: "page"
